@@ -1,4 +1,4 @@
-# Windows 8 UI Framework
+# Icons8 WPF Framework
 
 Windows 8 UI framework by Icons8 is a free set of UI controls that can be used for designing better user interfaces for Windows.
 
