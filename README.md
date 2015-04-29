@@ -15,4 +15,4 @@ Windows 8 UI framework by Icons8 is a free set of UI controls that can be used f
 
 As an example, we made Skype redesign for Windows using it.
 
-![Preview of Win8 WPF Framework](http://cdnd.icons8.com/download/images/flat-color-icons.png)
+![Preview of Win8 WPF Framework](https://github.com/icons8/Win8-UI-Framework/blob/master/Win8WPF.png)
