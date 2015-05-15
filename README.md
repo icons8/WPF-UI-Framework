@@ -10,7 +10,7 @@ So we’ve saved some pocket money to develop a framework. We picture a better w
 2. UI designers create mockups 3x faster.
 
 **What’s Done**
-Right now it has a number of templates and 400 icons, all open sourced. If you don’t need the mockups, feel free to use the icons separately.
+Right now it has a number of templates and 200 icons, all open sourced. If you don’t need the mockups, feel free to use the icons separately.
 
 **Set includes:**
 - 200 Free SVG icons
