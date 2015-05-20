@@ -24,4 +24,4 @@ Right now it has a number of templates and 200 icons, all open sourced. If you d
 - Buttons 
 - Radio button, checkbox, combo box etc.
 
-![Preview of Win8 WPF Framework](https://github.com/icons8/Win8-UI-Framework/blob/master/Win8WPF.png)
+![Preview of Win8 WPF Framework](https://github.com/icons8/Win8-UI-Framework/blob/master/WPF Framework.png)
