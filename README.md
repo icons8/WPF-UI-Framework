@@ -6,7 +6,7 @@ Windows 8 UI framework by Icons8 is a free set of UI controls that can be used f
 We feel sorry for the mediocre design of Windows apps. For the most part, they are like an uncool kid trying to match the cool kids: mobile applications, Mac OS, and web.
 
 So we’ve saved some pocket money to develop a framework. We picture a better world where:
-1. Windows developers create the beautiful applications.
+1. Windows developers create beautiful applications.
 2. UI designers create mockups 3x faster.
 
 **What’s Done**
