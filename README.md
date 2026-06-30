@@ -27,7 +27,7 @@ Right now it has a number of templates and 200 icons, all open sourced. If you d
 ![Preview of WPF Framework](https://raw.githubusercontent.com/icons8/WPF-UI-Framework/master/WPF%20Framework.png)
 
 
-## More from Icons8
+## More from the makers
 
 This framework ships with 200 free icons — a small corner of what [Icons8](https://icons8.com) builds:
 
