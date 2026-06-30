@@ -24,4 +24,12 @@ Right now it has a number of templates and 200 icons, all open sourced. If you d
 - Buttons 
 - Radio button, checkbox, combo box etc.
 
-![Preview of Win8 WPF Framework](https://github.com/icons8/Win8-UI-Framework/blob/master/WPF Framework.png)
+![Preview of WPF Framework](https://raw.githubusercontent.com/icons8/WPF-UI-Framework/master/WPF%20Framework.png)
+
+
+## More from Icons8
+
+This framework ships with 200 free icons — a small corner of what [Icons8](https://icons8.com) builds:
+
+- **[Icons](https://icons8.com/icons)** — 1,500,000+ icons in 132 styles, including the [Windows 10](https://icons8.com/icons/windows) and Windows 11 sets for native apps. SVG & PNG.
+- **[Illustrations](https://icons8.com/illustrations)** — 108,000+ illustrations in 338 styles to fill out your UI mockups. SVG & PNG.
